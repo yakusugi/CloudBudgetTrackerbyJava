@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CloudBudgetTrackerByJava</string>
+    <string name="account">Don\'t you have an account?<font color="#5b39c6"><b><i>Sign up</i></b></font></string>
+</resources>
